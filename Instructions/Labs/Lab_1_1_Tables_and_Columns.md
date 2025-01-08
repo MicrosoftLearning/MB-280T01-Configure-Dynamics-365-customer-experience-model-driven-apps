@@ -47,7 +47,7 @@ The Expense Report table will contain information about the expense report that 
 3. Using the navigation on the left, select **Solutions.**
 4. Locate and select the Expense Report solution.
 5. Select the **New** button.
-6. From the menu that appears, go to **Table.** Next, select **Set advanced properties.**
+6. From the menu that appears, go to **Table.** Next, select **Table (advanced properties).**
 7. Configure your new table as follows:
    - Display name: `Expense Line`
    - Plural name: `Expense Lines`
