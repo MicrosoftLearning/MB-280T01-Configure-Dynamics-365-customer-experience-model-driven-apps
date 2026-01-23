@@ -10,7 +10,7 @@ Bellows College is an educational organization with multiple campuses and progra
 Campus administration would like to modernize their expense reporting system by providing employees with a digital way to report expenses.
 Ideally, they want their users to complete an Expense Report after each event or purchase. For each Expense Report, they want them to be able to add individual expense line items. They have already started working on this solution. The Expense Report table has been created. You have been asked to take over the project and complete it.
 
-This lab will take approximately **10** minutes to complete.
+This lab will take approximately **20** minutes to complete.
 
 ## High-level lab steps
 Upon Successful completion of this lab, you will:
