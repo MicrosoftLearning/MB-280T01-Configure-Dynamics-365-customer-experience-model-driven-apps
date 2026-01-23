@@ -10,6 +10,8 @@ Bellows College is an educational organization with multiple campuses and progra
 Campus administration would like to modernize their expense reporting system by providing employees with a digital way to report expenses.
 Throughout this course, you will build applications and perform automation to enable the Bellows College employees to manage expenses.
 
+This lab will take approximately **20** minutes to complete.
+
 ## High-level lab steps
 Upon Successful completion of this lab, you will:
 - Create a new model-driven app
