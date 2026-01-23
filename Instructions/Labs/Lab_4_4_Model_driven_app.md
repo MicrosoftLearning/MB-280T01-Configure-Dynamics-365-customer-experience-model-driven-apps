@@ -13,6 +13,8 @@ Campus administration would like to modernize their expense reporting system by 
 
 Throughout this course, you will build applications and perform automation to enable the Bellows College employees to manage expenses.
 
+This lab will take approximately **20** minutes to complete.
+
 ## High-level lab steps
 As part of configuring the model-driven app, you will complete the following:
 - Configure your new model-driven app named Employee Expense Management
