@@ -1,6 +1,10 @@
 ---
 lab:
-    title: 'Lab 2.1: Create calculated and rollup fields'
+  title: 'Lab 2.1: Create calculated and rollup fields'
+  description: 'Upon Successful completion of this lab, you will:'
+  duration: 88 minutes
+  level: 100
+  islab: true
 ---
 
 # Lab 2.1: Create calculated and rollup fields 
