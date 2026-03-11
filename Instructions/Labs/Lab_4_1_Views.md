@@ -1,6 +1,12 @@
 ---
 lab:
-    title: 'Lab 4.1: Visualize data with views'
+  title: 'Lab 4.1: Visualize data with views'
+  description: Bellows College is an educational organization with multiple campuses
+    and programs. Many of Bellow Colleges instructors and administrators need to attend
+    events, and purchase items. Historically tracking these expenses has been a challenge.
+  duration: 152 minutes
+  level: 100
+  islab: true
 ---
 
 # Lab 4.1: Visualize data with views
