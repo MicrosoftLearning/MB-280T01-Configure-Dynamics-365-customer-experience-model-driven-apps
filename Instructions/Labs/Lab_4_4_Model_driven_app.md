@@ -1,6 +1,11 @@
 ---
 lab:
-    title: 'Lab 4.4: Build a model-driven app'
+  title: 'Lab 4.4: Build a model-driven app'
+  description: Bellows College is an educational organization with multiple campuses
+    and programs.
+  duration: 92 minutes
+  level: 100
+  islab: true
 ---
 
 # Lab 4.4: Build a model-driven app
