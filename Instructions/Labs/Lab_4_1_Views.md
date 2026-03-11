@@ -1,6 +1,10 @@
 ---
 lab:
-    title: 'Lab 4.1: Visualize data with views'
+  title: 'Lab 4.1: Visualize data with views'
+  description: 'As part of creating the model-driven app, you will complete the following:'
+  duration: 152 minutes
+  level: 100
+  islab: true
 ---
 
 # Lab 4.1: Visualize data with views
