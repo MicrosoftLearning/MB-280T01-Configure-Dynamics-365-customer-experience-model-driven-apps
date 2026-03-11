@@ -1,6 +1,16 @@
 ---
 lab:
-    title: 'Lab 4.3: Create a dashboard'
+  title: 'Lab 4.3: Create a dashboard'
+  description: Bellows College is an educational organization with multiple campuses
+    and programs. Many of Bellow Colleges instructors and administrators need to attend
+    events, and purchase items. Historically tracking these expenses has been a challenge.
+    Campus administration would like to modernize their expense reporting system by
+    providing employees with a digital way to report expenses. Throughout this course,
+    you will build applications and perform automation to enable the Bellows College
+    employees to manage expenses.
+  duration: 146 minutes
+  level: 100
+  islab: true
 ---
 
 # Lab 4.3: Create a dashboard 
