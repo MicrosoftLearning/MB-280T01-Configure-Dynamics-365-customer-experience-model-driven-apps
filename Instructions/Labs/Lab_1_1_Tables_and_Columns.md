@@ -1,6 +1,18 @@
 ---
 lab:
-    title: 'Lab 1.1: Create and manage tables and columns'
+  title: 'Lab 1.1: Create and manage tables and columns'
+  description: Bellows College is an educational organization with multiple campuses
+    and programs. Many of Bellow Colleges instructors and administrators need to attend
+    events, and purchase items. Historically tracking these expenses has been a challenge.
+    Campus administration would like to modernize their expense reporting system by
+    providing employees with a digital way to report expenses. Ideally, they want
+    their users to complete an Expense Report after each event or purchase. For each
+    Expense Report, they want them to be able to add individual expense line items.
+    They have already started working on this solution. The Expense Report table has
+    been created. You have been asked to take over the project and complete it.
+  duration: 160 minutes
+  level: 100
+  islab: true
 ---
 
 # Lab 1.1: Create and manage tables and columns
