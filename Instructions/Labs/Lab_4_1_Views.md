@@ -35,14 +35,14 @@ Completion of Module 1 Lab 0 - Validate lab environment
 
 ### Task #1: Edit the different Expense Lines views
 
-1. If you are not already sign in, sign in to `https://make.powerapps.com`
+1. If you are not already sign in, sign in to `https://make.powerapps.com`.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
 5. Locate and open the Expense Line table.
 6. Under Data experiences, select **Views.**
 7. Open the **Active Expense Lines** view.
-8. Click **View Column.** Select **Expense Date, Item Description, Expense Type,** and **Expense Amount.**
+8. Select **+View column** and select **Expense Date**. Repeat this step to add **Item Description**, **Expense Type**, and **Expense Amount**.
 9. Locate and select the **Created On** column. From the menu that appears select **Remove.**
 10. Your view should have the Expense Title, Expense Date, Item Description, Expense Type and Expense Amount columns on it.
 11. Select the **Save and publish** button.
@@ -53,7 +53,7 @@ Next, we will repeat that process to update the Expense Line Associated View. Th
 ### Task #2: Update the Expense Line Associated View 
 
 1. Locate and open the Expense Line Associated view.
-2. Click **View Column.** Select **Expense Date, Item Description, Expense Type,** and **Expense Amount.**
+2. Select **+View column** and select **Expense Date**. Repeat this step to add **Item Description**, **Expense Type**, and **Expense Amount**.
 3. Locate and select the **Created On** column. From the menu that appears select **Remove.**
 4. Your view should have the Expense Title, Expense Date, Item Description, Expense Type and Expense Amount columns on it.
 5. Select the **Save and publish** button.
@@ -64,7 +64,7 @@ Finally, we will repeat that process one more time to update the Quick Find Acti
 ### Task #3: Update the Quick Find view
 
 1. Locate and open the Quick Find Active Expense Lines view.
-2. Click **View Column.** Select  **Expense Date, Item Description, Expense Type,** and **Expense Amount.**
+2. Select **+View column** and select **Expense Date**. Repeat this step to add **Item Description**, **Expense Type**, and **Expense Amount**.
 3. Locate and select the **Created On** column. From the menu that appears select **Remove.**
 4. Your view should have the Expense Title, Expense Date, Item Description, Expense Type and Expense Amount columns on it.
 5. On the right side of the screen, in the Find by section, select **Edit Find Table Columns.**
@@ -77,14 +77,14 @@ Finally, we will repeat that process one more time to update the Quick Find Acti
 
 ### Task #4: Edit the different Expense Reports views
 
-1. If you are not already sign in, sign in to `https://make.powerapps.com`
+1. If you are not already, sign in to `https://make.powerapps.com`.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
 5. Locate and open the Expense Report table.
 6. Under Data experiences, select **Views.**
 7. Open the **Active Expense Reports** view.
-8. Click **View Column.** Select **Report Purpose, Report Due Date, Report Total,** and **Last Date for Approval.**
+8. Select **+View column** and select **Report Purpose**. Repeat this step to add **Report Due Date**, **Report Total**, and **Last Date for Approval**.
 9. Locate and select the **Created On** column. From the menu that appears select **Remove.**
 10. Your view should have the Report Purpose, Report Due Date, Report Total, and Last Date for Approval columns on it.
 11. Select the **Save and publish** button.
@@ -95,7 +95,7 @@ Next, we will repeat that process to update the Inactive Expense Reports view.
 ### Task #5: Update the Inactive Expense Reports view
 
 1. Locate and open the Inactive Expense Reports view.
-2. Click **View Column.** Select **Report Purpose, Report Due Date, Report Total,** and **Last Date for Approval.**
+2. Select **+View column** and select **Report Purpose**. Repeat this step to add **Report Due Date**, **Report Total**, and **Last Date for Approval**.
 3. Locate and select the **Created On** column. From the menu that appears select **Remove.**
 4. Your view should have the Report Purpose, Report Due Date, Report Total, and Last Date for Approval columns on it.
 5. Select the **Save and publish** button.
@@ -106,7 +106,7 @@ Next, we will repeat that process to update the Inactive Expense Reports view.
 Finally, we will repeat that process one more time to update the Quick Find Active Expense Reports View. This is the view that is used whenever a user uses the search field to look for a specific Expense Report.
 
 1. Locate and open the Quick Find Active Expense Reports view.
-2. Click **View Column.** Select **Report Purpose, Report Due Date, Report Total,** and **Last Date for Approval.**
+2. Select **+View column** and select **Report Purpose**. Repeat this step to add **Report Due Date**, **Report Total**, and **Last Date for Approval**.
 3. Locate and select the **Created On** column. From the menu that appears select **Remove.**
 4. Your view should have the Report Purpose, Report Due Date, Report Total, and Last Date for Approval columns on it.
 5. On the right side of the screen, in the Find by section, select **Edit Find Table Columns.**
