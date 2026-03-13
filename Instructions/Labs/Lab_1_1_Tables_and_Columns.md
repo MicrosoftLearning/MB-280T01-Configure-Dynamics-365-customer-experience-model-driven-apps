@@ -132,4 +132,4 @@ The Expense Report table will contain information about the expense report that 
 12. Repeat steps 10 & 11 to remove the following columns:
     - Created By
     - Expense Line
-    - Import Sequence
+    - Import Sequence Number
