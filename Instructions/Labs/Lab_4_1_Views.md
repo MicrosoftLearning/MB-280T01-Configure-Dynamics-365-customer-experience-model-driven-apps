@@ -35,7 +35,7 @@ Completion of Module 1 Lab 0 - Validate lab environment
 
 ### Task #1: Edit the different Expense Lines views
 
-1. If you are not alread sign in, sign in to `https://make.powerapps.com`
+1. If you are not already sign in, sign in to `https://make.powerapps.com`
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
