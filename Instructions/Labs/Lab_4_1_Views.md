@@ -85,7 +85,8 @@ Repeat this step to add **Item Description**, **Expense Type**, and **Expense Am
 5. Locate and open the Expense Report table.
 6. Under Data experiences, select **Views.**
 7. Open the **Active Expense Reports** view.
-8. Click **+View Column** Select **Report Purpose, Report Due Date, Report Total,** and **Last Date for Approval.**
+8. Select **+View Column** and select **Expense Date**.
+Repeat this step to add **Item Description**, **Expense Type**, and **Expense Amount.**
 9. Locate and select the **Created On** column. From the menu that appears select **Remove.**
 10. Your view should have the Report Purpose, Report Due Date, Report Total, and Last Date for Approval columns on it.
 11. Select the **Save and publish** button.
