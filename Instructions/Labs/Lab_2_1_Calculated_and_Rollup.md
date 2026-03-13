@@ -39,7 +39,7 @@ Upon Successful completion of this lab, you will:
 9. Select **Currency** for Data type.
 10. In Required, select **Optional.**
 11. In the Behavior field, select **Rollup.**
-12. Select the **Save** button. (You need to save the column before you can configure it.)
+12. Select the **Save** and **Edit** button. (You need to save the column before you can configure it.)
 13. Once the Column is saved, a pop-up window should appear. (If you get a pop-up message, you may need to allow pop ups.)
 14. Under RELATED ENTITY, select **+Add related entity.**
 15. Select **(Expense Lines) Expense Report.**
@@ -50,7 +50,7 @@ Upon Successful completion of this lab, you will:
 20. Select the green check mark and then select the **Save and Close** button.
 
 ### Task #2: Add a Power FX Formula Calculated field to the Expense Report table
-1. If necessary, navigate to the Power Apps Maker Portal.
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 2. Make sure that you are working in the environment that you imported the Expense Report solution into during the last exercise.
 3. Using the navigation on the left, select **Solutions.**
 4. Locate and select the Expense Report solution.
