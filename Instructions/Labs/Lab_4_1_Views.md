@@ -77,7 +77,7 @@ Finally, we will repeat that process one more time to update the Quick Find Acti
 
 ### Task #4: Edit the different Expense Reports views
 
-1. If you are not already, sign in to `https://make.powerapps.com`.
+1. If you are not already sign in, sign in to `https://make.powerapps.com`.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
@@ -117,7 +117,7 @@ Finally, we will repeat that process one more time to update the Quick Find Acti
 
 ### Task #7: Create a new view called Expenses Reports Due today
 
-1. If you are not already, sign in to `https://make.powerapps.com`.
+1. If you are not already sign in, sign in to `https://make.powerapps.com`.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
