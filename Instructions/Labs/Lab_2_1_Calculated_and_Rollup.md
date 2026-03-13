@@ -39,7 +39,7 @@ Upon Successful completion of this lab, you will:
 9. Select **Currency** for Data type.
 10. In Required, select **Optional.**
 11. In the Behavior field, select **Rollup.**
-12. Select the **Save** and **Edit** button. (You need to save the column before you can configure it.)
+12. Select the **Save** and **Edit** button.
 13. Once the Column is saved, a pop-up window should appear. (If you get a pop-up message, you may need to allow pop ups.)
 14. Under RELATED ENTITY, select **+Add related entity.**
 15. Select **(Expense Lines) Expense Report.**
