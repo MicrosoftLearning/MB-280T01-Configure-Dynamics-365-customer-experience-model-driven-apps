@@ -61,4 +61,4 @@ Upon Successful completion of this lab, you will:
 9. Select **Formula** for Data type.
 10. Enter the following formula: `DateAdd('Report Due Date',2)`
 11. Set the Format field to **Date Only.**
-12. Select the **Save** button. (You need to save the column before you can configure it.)
+12. Select the **Save** button.
