@@ -90,7 +90,7 @@ The Expense Report table will contain information about the expense report that 
 ### Task 4: Create Item Description column
 1. Select **+ New column.**
 2. Enter *`Item Description`* for Display name.
-3. Select **Multiple Lines of text > Plain Text** for Data type.
+3. Select **Text > Multiple Lines of text > Plain Text** for Data type.
 4. Select **Save.**
 
 ### Task 5: Create Expense Date column
