@@ -36,7 +36,7 @@ We will work with the following components:
 **IMPORTANT:** Since by default all forms are named Information, make sure to verify that the form you select has a Form Type of Main and not something else. By default, the form has two fields: Report Name and Owner.
 
 ### Task #2: Select columns for the form
-1. On the right side of the screen on the Properties panel, select the **Name** field, and change it to `Report Information`.
+1. On the right side of the screen on the Properties panel, select the **Display Name** field, and change it to `Report Information`.
 2. Select **Table columns** from the left navigation pane and add the following fields below the Owner field by dragging columns to the form or simply clicking column names:
     - Description
     - Report Purpose
