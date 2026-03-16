@@ -31,7 +31,7 @@ We will work with the following components:
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
 5. Locate and open the Expense Report table.
-6. Under the Data experiences section, select **Forms** and open the Information form with Main Form type. (Important: Make sure you select the form with the form type of Main.)
+6. Under the Data experiences section, select **Forms** and open the Information form with Main Form type.
 
 **IMPORTANT:** Since by default all forms are named Information, make sure to verify that the form you select has a Form Type of Main and not something else. By default, the form has two fields: Report Name and Owner.
 
