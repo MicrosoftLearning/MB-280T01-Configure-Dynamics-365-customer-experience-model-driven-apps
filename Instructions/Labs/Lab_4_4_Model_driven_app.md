@@ -36,7 +36,7 @@ For simplicity and time’s sake, we will not be addressing all of the Expense R
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
-5. Find the *`Employee Expense Management`* application that you created in the last exercise.
+5. Find the *`Employee Expense Management`* model-driven app that you created in the last exercise.
 6. Select **Edit** to open the modern app designer.
 7. Select **+Add page** on the command bar.
 8. The **Add page** screen will open.
