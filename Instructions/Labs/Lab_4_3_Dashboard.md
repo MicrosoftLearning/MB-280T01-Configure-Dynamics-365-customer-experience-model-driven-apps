@@ -24,7 +24,7 @@ Upon Successful completion of this lab, you will:
 ## Exercise 1: Create a Personal Dashboard
 
 ### Task #1: Create your new model-driven app
-1. If you are not already, sign in to `https://make.powerapps.com`.
+1. If you are not already signed in, sign in to `https://make.powerapps.com`.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
@@ -33,7 +33,7 @@ Upon Successful completion of this lab, you will:
 7. Enter *`Employee Expense Management`* for Name and select **Create.**
 
 ### Task #2: Create a new view called My Active Expense Reports
-1. If you are not already, sign in to `https://make.powerapps.com`.
+1. If you are not already signed in, sign in to `https://make.powerapps.com`.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
@@ -51,7 +51,7 @@ Upon Successful completion of this lab, you will:
 16. Select the **Save and Publish** button.
 
 ### Task #3: Add a Dashboards section to the Employee Expense Management app
-1. If you are not already, sign in to https://make.powerapps.com.
+1. If you are not already signed in, sign in to `https://make.powerapps.com`.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
@@ -67,7 +67,7 @@ Upon Successful completion of this lab, you will:
 14. Once the save is complete select the **Save and Publish** button.
 
 ### Task #4: Add a personal dashboard to the Employee Expense management app
-1. If you are not already, sign in to `https://make.powerapps.com`.
+1. If you are not already signed in, sign in to `https://make.powerapps.com`.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
