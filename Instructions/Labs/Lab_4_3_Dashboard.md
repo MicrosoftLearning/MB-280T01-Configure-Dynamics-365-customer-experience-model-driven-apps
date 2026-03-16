@@ -92,7 +92,7 @@ Upon Successful completion of this lab, you will:
 20. In the Lower Left section, select the **List icon.**
 21. Configure the List as follows:
     - Record Type: Expense Lines
-    - View: My Active Expense Lines.
+    - View: Active Expense Lines.
 22. Select the **Add** button.
 23. In the Lower Right section, select the **List icon.**
 24. Configure the List as follows:
