@@ -73,6 +73,7 @@ In this task, we will modify the form that is used to add Expense Line Items.
     - Expense Type
     - Item Description
     - Expense Amount
+    - Expense Date
     - Expense Report
 3. Drag the **Status Reason** column and drop it in the form header. The header is the top right area of the form. You may need to collapse the Properties panel on the right side of the screen to see the field on the form.
 4. Select the **Save and Publish** button.
