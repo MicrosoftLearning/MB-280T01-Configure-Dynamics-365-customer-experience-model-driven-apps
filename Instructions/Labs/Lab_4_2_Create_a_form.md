@@ -26,7 +26,7 @@ We will work with the following components:
 **Objective:** In this exercise, you will customize views and forms of the custom created tables that will be used in the model-driven app.
 
 ### Task #1: Edit Expense Report Form
-1. If you are not already sign in, sign in to `https://make.powerapps.com`.
+1. If you are not already signed in, sign in to `https://make.powerapps.com`.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
@@ -59,7 +59,7 @@ We will work with the following components:
 ### Task #3: Edit Active Expense Line Form
 In this task, we will modify the form that is used to add Expense Line Items.
 
-1. If you are not already sign in, sign in to `https://make.powerapps.com`
+1. If you are not already signed in, sign in to `https://make.powerapps.com`
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select Solutions.
 4. Open the Expense Report solution.
