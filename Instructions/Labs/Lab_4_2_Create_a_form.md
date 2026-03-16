@@ -48,7 +48,7 @@ We will work with the following components:
 6. Using the navigation on the left, select **Components.**
 7. Select the 1-column section to have it added below the current section.
 8. In the Properties screen, change the label to **`Expense Lines`**.
-9. With the Expense Line section still selected, locate and select the **Subgrid** component.
+9. With the Expense Lines section still selected, locate and select the **Subgrid** component.
 10. Select the **Show Related Records** check box.
 11. Set the Table to **Expense Lines (Expense Report).**
 12. Set the Default view to **Active Expense Lines.**
