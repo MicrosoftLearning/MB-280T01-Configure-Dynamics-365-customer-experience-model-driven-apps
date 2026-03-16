@@ -63,8 +63,7 @@ Upon Successful completion of this lab, you will:
 10. Explore the system dashboards that are available by default. When you are ready, select one of the dashboards that you would like to add to your app.
 11. Select **Add.**
 12. With New Group selected, change the Title to **Dashboards.**
-13. Select the **Save** button.
-14. Once the save is complete select the **Save and Publish** button.
+13. Select the **Save and Publish** button.
 
 ### Task #4: Add a personal dashboard to the Employee Expense management app
 1. If you are not already signed in, sign in to `https://make.powerapps.com`.
