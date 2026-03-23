@@ -2,7 +2,7 @@
 lab:
   title: 'Lab 4.3: Create a dashboard'
   description: 'Upon Successful completion of this lab, you will:'
-  duration: 146 minutes
+  duration: 20 minutes
   level: 100
   islab: true
 ---
