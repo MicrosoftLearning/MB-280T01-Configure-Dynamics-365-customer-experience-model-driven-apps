@@ -2,7 +2,7 @@
 lab:
   title: 'Lab 4.4: Build a model-driven app'
   description: 'As part of configuring the model-driven app, you will complete the following:'
-  duration: 92 minutes
+  duration: 20 minutes
   level: 100
   islab: true
 ---
