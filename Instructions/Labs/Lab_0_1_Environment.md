@@ -1,6 +1,12 @@
 ---
 lab:
-    title: 'Lab 0: Validate lab environment'
+  title: 'Lab 0: Validate lab environment'
+  description: In this exercise, you will verify that you can access Power Apps.
+  duration: 10 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Power Apps
 ---
 
 # Practice Lab 0 - Validate lab environment

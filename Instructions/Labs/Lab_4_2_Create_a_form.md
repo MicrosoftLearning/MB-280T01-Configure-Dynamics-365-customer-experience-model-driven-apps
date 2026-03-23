@@ -1,6 +1,10 @@
 ---
 lab:
-    title: 'Lab 4.2: Create forms'
+  title: 'Lab 4.2: Create forms'
+  description: 'Upon Successful Completion of this lab, you will have completed the following:'
+  duration: 20 minutes
+  level: 100
+  islab: true
 ---
 
 # Lab 4.2: Create forms

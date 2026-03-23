@@ -1,6 +1,10 @@
 ---
 lab:
-    title: 'Lab 1.1: Create and manage tables and columns'
+  title: 'Lab 1.1: Create and manage tables and columns'
+  description: 'Upon Successful completion of this lab, you will:'
+  duration: 20 minutes
+  level: 100
+  islab: true
 ---
 
 # Lab 1.1: Create and manage tables and columns
