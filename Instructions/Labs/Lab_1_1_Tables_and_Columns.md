@@ -34,7 +34,7 @@ Upon Successful completion of this lab, you will:
 
 ### Task #1: Import the solution
 The Expense Report table will contain information about the expense report that the individual is submitting.
-1. If you are not already signed in, sign into `make.powerapps.com` using your environment credentials.
+1. If you are not already signed in, sign into https://make.powerapps.com using your environment credentials.
 2. From the Environment menu in the top right, ensure you are in the environment that you want to import the solution to.
 3. Using the navigation on the left, select **Solutions.**
 4. On the command bar at the top select **Import Solution.**
@@ -48,7 +48,7 @@ The Expense Report table will contain information about the expense report that 
 **Objective:** In this exercise, you will import the Expense Report solution that includes the Expense Report table.
 
 ### Task #1: Create Expense Line table
-1. If necessary, navigate to the Power Apps Maker Portal.
+1. Navigate to the Power Apps Maker portal https://make.powerapps.com
 2. Make sure that you are working in the environment that you imported the `ExpenseReport_1_0_0_1` solution into during the last exercise.
 3. Using the navigation on the left, select **Solutions.**
 4. Locate and select the Expense Report solution.
@@ -94,7 +94,7 @@ The Expense Report table will contain information about the expense report that 
 ### Task 4: Create Item Description column
 1. Select **+ New column.**
 2. Enter *`Item Description`* for Display name.
-3. Select **Multiple Lines of text > Plain Text** for Data type.
+3. Select **Text > Multiple Lines of text > Plain Text** for Data type.
 4. Select **Save.**
 
 ### Task 5: Create Expense Date column
@@ -136,4 +136,4 @@ The Expense Report table will contain information about the expense report that 
 12. Repeat steps 10 & 11 to remove the following columns:
     - Created By
     - Expense Line
-    - Import Sequence
+    - Import Sequence Number
