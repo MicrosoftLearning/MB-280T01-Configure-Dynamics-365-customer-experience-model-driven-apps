@@ -32,7 +32,7 @@ Both will be integrated to the model-driven app for a better user-experience.
 For simplicity and time’s sake, we will not be addressing all of the Expense Report columns in this lab.
 
 ## Task 1: Configure the sitemap
-1. If you are not already signed in, sign in to `https://make.powerapps.com`.
+1. If you are not already signed in, sign in to https://make.powerapps.com
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
