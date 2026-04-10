@@ -28,7 +28,7 @@ Upon Successful completion of this lab, you will:
 **Objective:** In this exercise, create a rollup and a calculated field on the expense report table.
 
 ### Task #1: Add a rollup field to the Expense Report table
-1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
+1. Navigate to the Power Apps Maker portal https://make.powerapps.com
 2. Make sure that you are working in the environment that you imported the Expense Report solution into during the last exercise.
 3. Using the navigation on the left, select **Solutions.**
 4. Locate and select the Expense Report solution.
@@ -50,7 +50,7 @@ Upon Successful completion of this lab, you will:
 20. Select the green check mark and then select the **Save and Close** button.
 
 ### Task #2: Add a Power FX Formula Calculated field to the Expense Report table
-1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
+1. Navigate to the Power Apps Maker portal https://make.powerapps.com
 2. Make sure that you are working in the environment that you imported the Expense Report solution into during the last exercise.
 3. Using the navigation on the left, select **Solutions.**
 4. Locate and select the Expense Report solution.
