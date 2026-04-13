@@ -36,11 +36,11 @@ Both will be integrated to the model-driven app for a better user-experience.
 For simplicity and time’s sake, we will not be addressing all of the Expense Report columns in this lab.
 
 ## Task 1: Configure the sitemap
-1. If you are not already, sign in to `https://make.powerapps.com`.
+1. If you are not already signed in, sign in to https://make.powerapps.com
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
-5. Find the *`Employee Expense Management`* application that you created in the last exercise.
+5. Find the *`Employee Expense Management`* model-driven app that you created in the last exercise.
 6. Select **Edit** to open the modern app designer.
 7. Select **+Add page** on the command bar.
 8. The **Add page** screen will open.
@@ -51,7 +51,7 @@ For simplicity and time’s sake, we will not be addressing all of the Expense R
 11. Make sure that Show in navigation is selected.
 12. After you have selected both tables, select **Add.**
 13. Under Navigation, select the **Expense Reports** form.
-14. Go to the In this app section on the right side of the screen.
+14. On the right side of the screen, expand **Expense Reports forms**, and then go to the **In this app** section.
 15. Select **Show more.**
 16. Select the **Ellipsis** next to Information Quick View Form.
 17. From the menu that appears, select **Remove.**
