@@ -28,7 +28,7 @@ Upon Successful completion of this lab, you will:
 ## Exercise 1: Create a Personal Dashboard
 
 ### Task #1: Create your new model-driven app
-1. If you are not already, sign in to `https://make.powerapps.com`.
+1. If you are not already signed in, sign in to https://make.powerapps.com.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
@@ -37,7 +37,7 @@ Upon Successful completion of this lab, you will:
 7. Enter *`Employee Expense Management`* for Name and select **Create.**
 
 ### Task #2: Create a new view called My Active Expense Reports
-1. If you are not already, sign in to `https://make.powerapps.com`.
+1. If you are not already signed in, sign in to https://make.powerapps.com.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
@@ -55,7 +55,7 @@ Upon Successful completion of this lab, you will:
 16. Select the **Save and Publish** button.
 
 ### Task #3: Add a Dashboards section to the Employee Expense Management app
-1. If you are not already, sign in to https://make.powerapps.com.
+1. If you are not already signed in, sign in to https://make.powerapps.com.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
@@ -67,11 +67,10 @@ Upon Successful completion of this lab, you will:
 10. Explore the system dashboards that are available by default. When you are ready, select one of the dashboards that you would like to add to your app.
 11. Select **Add.**
 12. With New Group selected, change the Title to **Dashboards.**
-13. Select the **Save** button.
-14. Once the save is complete select the **Save and Publish** button.
+13. Select the **Save and Publish** button.
 
 ### Task #4: Add a personal dashboard to the Employee Expense management app
-1. If you are not already, sign in to `https://make.powerapps.com`.
+1. If you are not already signed in, sign in to https://make.powerapps.com.
 2. Select the environment that you imported the Expense Report solution into at the top right if it is not already selected.
 3. Using the navigation on the left, select **Solutions.**
 4. Open the Expense Report solution.
@@ -83,7 +82,7 @@ Upon Successful completion of this lab, you will:
 10. From the menu that appears, select **Dynamics 365 Dashboard.**
 11. Choose **2-column Regular Dashboard.**
 12. Select the **Create** button.
-13. Change the Name of the dashboard to *`Expense Report Dashboard`*.
+13. Change the Name of the dashboard to *Expense Report Dashboard*.
 14. In the Upper Left section, select the **List icon.**
 15. Configure the List as follows:
     - Record Type: Expense Reports
@@ -97,7 +96,7 @@ Upon Successful completion of this lab, you will:
 20. In the Lower Left section, select the **List icon.**
 21. Configure the List as follows:
     - Record Type: Expense Lines
-    - View: My Active Expense Lines.
+    - View: Active Expense Lines.
 22. Select the **Add** button.
 23. In the Lower Right section, select the **List icon.**
 24. Configure the List as follows:
